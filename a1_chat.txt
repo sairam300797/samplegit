@@ -1,1 +1,2 @@
 chat code created by gayu
+bug fixed by gayu
